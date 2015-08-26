@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.stratos:kubernetes-api:2.2.16-stratosv1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/stratos/kubernetes-api/2.2.16-stratosv1/kubernetes-api-2.2.16-stratosv1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/stratos/kubernetes-api/2.2.16-stratosv1/kubernetes-api-2.2.16-stratosv1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/stratos/kubernetes-api/2.2.16-stratosv1/kubernetes-api-2.2.16-stratosv1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
